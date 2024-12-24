@@ -28,7 +28,7 @@ PROJECTS = {
     "🏆 Flet Counter App - Deployed using Github Action": "https://github.com/Rajkumar-21/flet-counter-app",
     "🏆 Powershell Script for Automation": "https://github.com/Rajkumar-21/PowerShell-Scripts",
     "🏆 Streamlit - URL Shortner & deployed in HuggingFace": "https://github.com/Rajkumar-21/streamlit-urlshortner",
-    "🏆 Deployed .Net application in Azure WebAPP using Github Action": "https://github.com/rajkumar-r-org/apps-ci-cd",
+    "🏆 Worked in deploying application with DevSecOps enabled": "https://github.com/rajkumar-r-org/apps-ci-cd",
     "🏆 Azure pipeline repo to understand YAML basics": "https://github.com/Rajkumar-21/pipeline-YAML"
 }
 

@@ -101,7 +101,9 @@ st.write(
 
 - ✔️ Excellent communication and collaboration skills, with a proven track record of working effectively in cross-functional teams to deliver high-quality solutions.
 
-- ✔️ Azure Certified DevOps Engineer, Administrator Expert
+- ✔️ Azure & AWS Certified DevOps Engineer
+
+- ✔️ Automated infrastructure configuration of the cloud resource and applications, optimised resources by usage alerts and reports.
 
 
 """

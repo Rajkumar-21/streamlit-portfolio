@@ -89,7 +89,7 @@ st.subheader("Experience & Qulifications")
 st.write("---")
 st.write(
     """
-- ✔️ Experienced Azure DevOps Engineer with 5+ years in automating and optimizing cloud infrastructure and deployment strategies.
+- ✔️ Experienced Azure DevOps Engineer with 6+ years in automating and optimizing cloud infrastructure and deployment strategies.
 
 - ✔️ Proven expertise in leveraging Azure tools to enhance operational excellence, ensuring scalable, secure, and resilient systems.
 

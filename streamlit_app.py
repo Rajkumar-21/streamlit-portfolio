@@ -29,14 +29,20 @@ PROJECTS = {
     "🏆 Powershell Script for Automation": "https://github.com/Rajkumar-21/PowerShell-Scripts",
     "🏆 Streamlit - URL Shortner & deployed in HuggingFace": "https://github.com/Rajkumar-21/streamlit-urlshortner",
     "🏆 Worked in deploying application with DevSecOps enabled": "https://github.com/rajkumar-r-org/apps-ci-cd",
-    "🏆 Azure pipeline repo to understand YAML basics": "https://github.com/Rajkumar-21/pipeline-YAML"
+    "🏆 Azure MCP Server - For GenAI application this azure mcp server will help to interact with our private MCP server":"https://github.com/Rajkumar-21/azure-mcp-server",
+    "🏆 GitHub to Markdown - This will make any GitHub repo into markdown will helps giving context to LLM for helping in developing reference for the developments":"https://github.com/Rajkumar-21/Github2Markdown",
+    "🏆 MCP Sample - This Repo contains sample about MCP concepts for personal learning and learning new AI concepts":"https://github.com/Rajkumar-21/mcp-samples",
+    "🏆 Google Books Search - This projects uses Google Books API and using FastAPI as backend and React as frontend able to search any books available in google API and show in frontend react application":"https://github.com/Rajkumar-21/google-books-react-fastapi-app",
+    "🏆 PowerShell Script - This Repo contains all PowerShell scripts using for devops engineer to working with cloud and regular activities by automating the process":"https://github.com/Rajkumar-21/PowerShell-Scripts",
+    "🏆 URL Shortener - This repo will help to shorten the long weburl to shorten to use - Link Azure pipeline repo to understand YAML basics": "https://github.com/Rajkumar-21/pipeline-YAML",
 }
 
 ACHIEVEMENTS = {
     "🏆 Received an on-the-spot award for utmost dedication and commitment at TCS.",
-    "🏆 Received the User Recognition Award for outstanding work on the project at EY in both 2023 and 2024",
+    "🏆 Received 3X User Recognition Award for outstanding work on the project at EY in both 2023 - Present",
     "🏆 Automated application/Vm’s deployment with additional configurations to complete the release of the products.",
     "🏆 Worked on scriptings to get customized reports and other actions which majorly reduced time to find and also saved cost by optimizing the infrastructure.",
+    "🏆 Developed Chatbot using AI Agents, MCP Server for Azure Resources, Azure Openai, FastAPI",
 }
 
 CERTIFICATIONS = {
@@ -47,7 +53,9 @@ CERTIFICATIONS = {
 "📑 Microsoft Certified Azure Administrator Associate",
 "📑 Microsoft Azure Fundamentals Certification",
 "📑 Microsoft Azure AI Fundamental - AI900",
-
+"📑 Microsoft Certified: Azure AI Fundamentals (AI-900)",
+"📑 Github Foundation Certified",
+"📑 Earned 3 EY Bronze Badge for Azure & Cloud & AI Engineering"
 }
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
@@ -201,13 +209,33 @@ st.write("🚧", "**Senior Consultant | Ernst & Young**")
 st.write("Nov/2022 - Present")
 st.write(
     """
-- ► Designed and implemented robust Microsoft Azure infrastructure to support cloud-based applications.
-- ► Automated deployment processes and infrastructure management with Azure DevOps, PowerShell which reduced manual works by 90%.
-- ► Implemented CI/CD pipelines for reporting and monitoring usage data of azure resources and take action which optimized and reduced cost by 40%.
-- ► Developed a PowerShell script to automate the process of stopping VMs based on users' idle time and selective machines which saved $10K annually.
-- ► Worked in LLM applications using AzureOpenAI, Streamlit,Flask and Langchain to create DevSecOps applications.
-- ► Conducted security audits and vulnerability assessments to ensure compliance and secure application environments.
-- ► Optimized network configurations for secure, low-latency communication between cloud resources and on-premises systems.
+Built and maintained secure CI/CD pipelines using Azure 
+DevOps and GitHub Actions with integrated SAST/DAST 
+tools (SonarQube, Mend), ensuring early vulnerability 
+detection and secure deployments. 
+- ►Led IaC-based environment provisioning 
+(Dev/Test/Stage/Prod) and pipeline integrations using 
+Terraform and Git. 
+- ►Deployed containerized apps with Docker, Kubernetes 
+(AKS), and Helm using Blue-Green and Canary 
+strategies to ensure zero-downtime rollouts. 
+- ►GenAI DevSecOps Assistant: Built an AI-powered tool 
+using Python, FastAPI, Azure OpenAI, and Langchain to 
+analyse CI/CD failures. 
+- ►VM Automation: Reduced VM deployment time from 3 
+days to 2 hours through automated setup, config, and 
+software install. 
+- ► Cost Optimization: Saved 35% monthly cloud costs by 
+automating VM shutdowns based on idle time using 
+Azure Runbooks and Logic Apps. 
+- ► Built a centralized Azure dashboard using Power Apps 
+to track resource usage, VM status, costs, and scaling 
+actions. 
+- ► Developed a GenAI-powered chatbot for managing 
+Azure VMs, storage, and DevOps work items via natural 
+language. 
+- ►  Earned 3× User Recognition Awards for automation 
+excellence and impactful DevOps solutions 
 
 """
 )

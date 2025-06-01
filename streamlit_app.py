@@ -268,3 +268,40 @@ st.write(
 )
 
 st.write("---")
+st.subheader("Skills")
+st.write(
+    """
+- ► CI/CD & Automation
+- ► Azure DevOps
+- ► GitHub Actions
+- ► Terraform
+- ► Programming & Scripting
+- ► Python & PowerShell
+- ► Mend/Whitesource
+- ► Vulnerability Management
+- ► Azure Security Center
+- ► Network Security Groups (NSGs)
+- ► Azure Firewall
+- ► Containerization & Orchestration
+- ► Docker & Kubernetes & Helm
+- ► Azure WebApps, SQL, ADLS, Monitor, Log Analytics
+- ► Azure Monitor
+- ► Log Analytics
+- ► Monitoring & Logging
+- ► Databases PostgreSQL
+- ► Networking Azure VNet
+- ► Load Balancers
+- ► Application Gateway
+- ► ExpressRoute
+- ► Methodologies
+- ► Agile
+- ► DevSecOps
+- ► Continuous Integration/Deployment/Delivery
+- ► AI/ML & GenAI & MCP
+- ► AI Agents & FastAPI
+- ► Streamlit
+
+"""
+)
+
+st.write("---")
